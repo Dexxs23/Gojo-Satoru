@@ -22,29 +22,29 @@ global.APIKeys = {
 global.owner = ['491621612964']
 global.premium = ['491621612964']
 global.ownernomer = '491621612964'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Kakashi-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.ownername = 'KAKASHI🌚'
+global.botname = 'Kakashi-Zyios✅'
+global.footer = '©KakashiZyios✅.'
+global.ig = 'https://github.com/Dexxs23'
+global.region = 'Germany'
+global.sc = 'https://github.com/Dexxs23/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'Zyios'
+global.author = '🐦Kakashi✅-zero'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['/']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'Du musst mindestens den Rank Admin oder Vip Besitzen❌!',
+    botAdmin: 'bin kein Admin du Vogel😡!',
+    owner: 'Du musst mindestens den rank Owner besitzen❌!',
+    group: 'Dieser command ist nur in Gruppen verfügbar!',
+    private: 'Dieser Command geht nur im Privat chat!',
+    bot: 'Dies ist ein Bot cmd😼',
+    wait: 'Bitte warte kurz...',
+    error: 'Fehler😭!',
+    endLimit: 'Du hast dein Tägliches limit erreicht',
 }
     global.limitawal = {
     premium: "Infinity",
